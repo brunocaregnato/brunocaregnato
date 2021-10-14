@@ -1,7 +1,7 @@
 ### Hello m8 👋
 
 - Software Developer at [Zallpy](https://zallpy.com/).
-- Projects and stuff on [brunomcaregnato.io](https://brunocaregnato.github.io/)
+- Projects and stuff on [brunocaregnato.io](https://brunocaregnato.github.io/)
 - Wanna talk? Connect with me on social media 😃☕🍻
 
 ### 💹 Stats
