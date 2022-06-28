@@ -1,7 +1,7 @@
 ### Hello m8 👋
 
 - Software Developer at [Zallpy](https://zallpy.com/), currently outsourced to [Ticket Log®](https://www.ticketlog.com.br/) ([Edenred®](https://www.edenred.com/en) group).
-- Projects and stuff on [brunocaregnato.io](https://brunocaregnato.github.io/)
+- Projects and stuff on [brunocaregnato.io](https://brunocaregnato.github.io/) (under construction).
 - Wanna talk? Connect with me on social media 😃☕🍻
 
 #### 💹 Stats
